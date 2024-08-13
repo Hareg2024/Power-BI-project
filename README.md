@@ -1,6 +1,5 @@
 # Power-BI-project
-Power Bi skills covered : Data cleaning, Data Modeling, SQL, python, visualization, Dashboard , reporting
- * click the pages you are interested in to go to the page detail and use the back arrow on top left corner or The Hamburger button on the to left to return to back to the navigation page.
+Power Bi skills covered include data cleaning, modeling, SQL, Python, visualization, dashboarding, and reporting. The interactive dashboard and pages are available in this repository. To view page details, click on the desired page and use the back arrow or Hamburger button to return to the navigation page.
 
 ![image](https://github.com/user-attachments/assets/2a214f1b-7d9a-4422-86f1-08da0b0f0945)
 
